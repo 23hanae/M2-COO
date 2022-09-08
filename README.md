@@ -7,3 +7,6 @@ Il va montrer comment on peut écrire du code C++ en fournissant une librairie
 
 Il indiquera également comment utiliser un certain nombre d’outils qui nous
 aideront lors de la conception, du développement, et à plus long terme.
+
+Lien :
+https://homepages.laas.fr/gsaurel/talks/conception-orientee-objet-outils.pdf
